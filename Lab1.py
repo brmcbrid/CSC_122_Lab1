@@ -5,10 +5,10 @@
 # Correct all of the errors in this code
 
 """
-Inputs, Processes, Outputs (IOP)
+Inputs, Processes, Outputs (IPO)
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 Input(s):
-Processes:
+Process(es):
 Output(s):
 """
 
